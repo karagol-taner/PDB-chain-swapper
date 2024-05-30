@@ -4,7 +4,9 @@ This Python script swaps the chains in a PDB (Protein Data Bank) file. It provid
 
 ## Usage
 
-1. Clone the repository or download the `pdb_chain_swapper.py` script.
+1. Download the `pdb_chain_swapper.py` script.
 
-2. Alternatively, you can run the script in Google Colab using the following notebook:
+2. Run the script using Python.
+
+3. Alternatively, you can run the script in Google Colab using the following notebook:
 [Open in Google Colab](https://colab.research.google.com/drive/1xNMplGX6yMj92fdFDklY9h6frex9zj6m?usp=sharing)
